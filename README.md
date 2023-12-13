@@ -28,7 +28,7 @@ Decorator: The different types of employees follow this pattern. They were not i
 
 **Diagrams & Screenshots**
 
-![My_Image](project-MVC Diagram.png)
+![My_Image](project_MVC_Diagram.png)
 
 
 ![My_Image](main_GUI_screenshot.png)
