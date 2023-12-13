@@ -24,3 +24,11 @@ Key Design Patterns:
 Model-View-Controller: The system follows this architectural pattern. 
 Singleton: The database connection is implemented in this pattern. 
 Decorator: The different types of employees follow this pattern. They were not implemented but are shown in the design.   
+
+
+**Diagrams & Screenshots**
+
+![My_Image](project-MVC Diagram.png)
+
+
+![My_Image](main_GUI_screenshot.png)
