@@ -27,14 +27,14 @@ public class EmailConnection {
      * @param user: RegularUser
      */
     public static void emailSetup(Ticket ticket, Seat seat, Flight flight, RegularUser user) {
-        final String username = "bains.meng@gmail.com";
-        final String appPassword = "dgcm ckoy kflw msgh";  									// Use App Password here
+        final String username = "your-email@gmail.com";
+        final String appPassword = "your-password";  									// Use App Password here
         
         Properties props = new Properties();												// items for the connection 
         props.put("mail.smtp.auth", "true");
         props.put("mail.smtp.starttls.enable", "true");
         props.put("mail.smtp.host", "smtp.gmail.com");
-        props.put("mail.smtp.port", "587");
+        props.put("mail.smtp.port", "555");
 
         Session session = Session.getInstance(props,
         		new javax.mail.Authenticator() {
